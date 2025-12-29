@@ -1,0 +1,5 @@
+{
+  "name": "Sequence to SVGA Creator",
+  "description": "A professional tool to upload image sequences, sort them, and compile them into SVGA animations with adjustable frame rates and durations.",
+  "requestFramePermissions": []
+}
